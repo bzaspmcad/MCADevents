@@ -8,3 +8,6 @@ header.appbar.ng-star-inserted {
 span.event__dateTime.ng-star-inserted {
     display:none
 }
+.grid-container.ng-star-inserted {
+    background:transparent
+}
