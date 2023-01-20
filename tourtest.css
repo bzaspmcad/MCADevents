@@ -17,12 +17,9 @@ span.event-start-date.ng-star-inserted {
 span.ng-star-inserted {
     display:none
 }
-.bt-start-end-date {
+span.start-date.ng-star-inserted {
     display:none
 }
-.start-date.ng-star-inserted {
-    display:none
-}
-bt-start-end-date.\.bt-start-end-date {
+span.bt-start-end-date.\.bt-start-end-date {
     display:none
 }
