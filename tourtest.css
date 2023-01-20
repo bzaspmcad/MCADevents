@@ -11,7 +11,7 @@ span.event__dateTime.ng-star-inserted {
 .main-container.ng-star-inserted {
     background:#eee9e5
 }
-span {
+.event-start-date.ng-star-inserted {
     display:none
 }
 span.ng-star-inserted {
