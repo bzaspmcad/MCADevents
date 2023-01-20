@@ -20,3 +20,9 @@ span.ng-star-inserted {
 .bt-start-end-date {
     display:none
 }
+.start-date.ng-star-inserted {
+    display:none
+}
+bt-start-end-date.\.bt-start-end-date {
+    display:none
+}
