@@ -13,10 +13,13 @@ span.event__dateTime.ng-star-inserted {
 span.ng-star-inserted {
     display:none
 }
-.event-name {
-    display:none !important;
+span.event-name {
+    display:none !important
 }
 
 body {
     background:#eee9e5
+}
+bt-start-end-date.\.bt-start-end-date {
+    display:none !important
 }
