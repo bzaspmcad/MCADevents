@@ -6,16 +6,11 @@ header.appbar.ng-star-inserted {
 }
 span.event__dateTime.ng-star-inserted {
     display:none
-}
-.main-container.ng-star-inserted {
-    background:#eee9e5
+
 }
 span.ng-star-inserted {
     display:none
 }
  body {
     background:#eee9e5 !important
-}
-bt-event-listing-aspen-main.ng-star-inserted {
-    --grid-items-per-row:3
 }
