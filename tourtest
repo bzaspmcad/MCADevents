@@ -34,3 +34,6 @@ span.ng-star-inserted {
     --grid-items-per-row: 3;
     --grid-item-max-width: 30rem;
 }
+span.ng-star-inserted {
+    display: none;
+}
