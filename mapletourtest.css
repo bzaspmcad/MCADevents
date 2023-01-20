@@ -1,0 +1,27 @@
+header.appbar.ng-star-inserted {
+    display:none
+}
+
+span.ng-star-inserted {
+    display:none
+}
+
+button.category-item-button.selected {
+    display:none
+}
+
+.group-key-month {
+    display:none
+}
+
+.group-key-day {
+    display:none
+}
+
+aside.sidebar {
+    display:none
+}
+
+.main-container.ng-star-inserted {
+    background:#eee9e5
+}
