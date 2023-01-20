@@ -16,3 +16,7 @@ span.ng-star-inserted {
 .event-name {
     display:none !important;
 }
+
+body {
+    background:#eee9e5
+}
